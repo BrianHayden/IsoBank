@@ -36,6 +36,7 @@ materialSample,Darwin Core,Unique identifier for each sample,Yes,Character strin
 kingdom,Darwin Core,"The full scientific name of the kingdom in which the sample is classified. (Plantae, Animalia, inorganic)",Recommended,Selection from list
 phylum,Darwin Core,The full scientific name of the phylum in which the sample is classified.,Recommended,Character string
 class,Darwin Core,The full scientific name of the class in which the sample is classified.,Recommended,Character string
+order,Darwin Core,The full scientific name of the order in which the sample is classified.,Recommended,Character string
 family,Darwin Core,The full scientific name of the family in which the sample is classified.,Recommended,Character string
 genus,Darwin Core,The full scientific name of the genus in which the sample is classified.,Recommended,Character string
 scientificName,Darwin Core,The species name name or the lowest level taxonomic rank that can be determined.,Recommended,Character string
